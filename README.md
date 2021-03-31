@@ -8,3 +8,9 @@ You can see demo [here](https://naim30.github.io/readymag-landing-page/)
 
 - GSAP (3.5.1)
 - ScrollTrigger (3.5.1)
+
+## Languages
+
+- HTML
+- CSS
+- JavaScript
