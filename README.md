@@ -17,7 +17,7 @@ I created landing page clone of readymag website using html, css and javascript.
 
 Here's why:
 
-- It gives me good understanding about how css in html works.
+- It gives me good understanding about how css works in html.
 - I also learn how to use amazing animation library GSAP (3.5.1)
 
 it is better starting project for new web developer
