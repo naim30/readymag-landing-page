@@ -11,7 +11,7 @@
 
 ## About The Project
 
-![Landing page Screenshot](hero-section.jpg)
+![Landing page Screenshot](public/hero-section.jpg)
 
 I created landing page clone of readymag website using html, css and javascript.
 
