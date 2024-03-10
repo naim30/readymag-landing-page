@@ -51,9 +51,6 @@ git clone https://github.com/naim30/readymag-landing-page.git
 ## Contact
 
 Naimish Lukhi :
-Email - naimlukhi30@gmail.com :
-[LinkedIn](https://www.linkedin.com/in/naimish-lukhi-a2b14a1b9)
-
-Project Link: [https://github.com/naim30/readymag-landing-page](https://github.com/naim30/readymag-landing-page)
+Email - lukhinaimish@gmail.com : [LinkedIn](https://www.linkedin.com/in/lukhi-naimish/) : [Twitter](https://twitter.com/naimish_30)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
